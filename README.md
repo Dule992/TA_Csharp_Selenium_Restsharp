@@ -26,22 +26,6 @@ Test Automation Framework built with **C#**, integrating **Selenium WebDriver** 
 - [.NET SDK 8.0+](https://dotnet.microsoft.com/)
 - Chrome or another WebDriver-compatible browser
 - [Allure CLI](https://docs.qameta.io/allure/#_installing_a_commandline) installed
-
-### 📁 Folder Structure
-
-```text
-TA_Csharp_Selenium_Restsharp/
-│
-├── UI_Automation/       # Selenium + Reqnroll steps
-├── API_Tests/           # RestSharp test suites
-├── Hooks/               # Setup & teardown
-├── Pages/               # Page Object Models
-├── Features/            # .feature BDD files
-├── TestData/            # Fake data generators (Bogus)
-├── allure-results/      # Raw Allure results
-├── allure-report/       # Final Allure HTML report
-└── allureConfig.json    # Allure configuration
-```
 ---
 
 ## 🧪 Running Tests
