@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Automation", "API_Automation.csproj", "{6FE1D47D-1044-4F2A-AA8C-80A0F63B1876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_Automation", "..\UI_Automation\UI_Automation.csproj", "{E784A186-3BA4-4305-9A20-CA72F4C33B21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE1D47D-1044-4F2A-AA8C-80A0F63B1876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE1D47D-1044-4F2A-AA8C-80A0F63B1876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE1D47D-1044-4F2A-AA8C-80A0F63B1876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE1D47D-1044-4F2A-AA8C-80A0F63B1876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E784A186-3BA4-4305-9A20-CA72F4C33B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E784A186-3BA4-4305-9A20-CA72F4C33B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E784A186-3BA4-4305-9A20-CA72F4C33B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E784A186-3BA4-4305-9A20-CA72F4C33B21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
